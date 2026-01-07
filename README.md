@@ -1,5 +1,4 @@
 # isabellag3106.github.io
-Hello!
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +10,16 @@ scale=1.0">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <h1>Pink website</h1>
 <script src="index.js"></script>
 </body>
 </html>
+\\<begin{center}></begin>
+    \{git add .}
+\<end{center}></end>
+\<begin{center}></begin>
+    \{git commit -a -m "message explaining the commit"}
+\<end{center}></end>
+\<begin{center}></begin>
+    \{git push}
+\<end{center}></end>
